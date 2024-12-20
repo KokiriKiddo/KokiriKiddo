@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Cool Video Games GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF2cnByYnU3eDE1d2o2eGhsM2RqdGFodjhydXk5dXRucGY5N3V0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oyUrSRL4HxBE2Qk87W/giphy.gif)
+
 <!--
 **KokiriKiddo/KokiriKiddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
